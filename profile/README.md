@@ -12,6 +12,6 @@ Our current projects include:
 
 Be part of the conversation! Connect with other AI researchers, engineers, and enthusiasts to discuss model compression, optimization techniques, and open-source AI development.
 
-🚀 Join our [Discord]([url](https://discord.gg/bEnEs6am)) and shape the future of efficient AI with us!
+🚀 Join our [Discord](https://discord.gg/bEnEs6am) and shape the future of efficient AI with us!
 
 
