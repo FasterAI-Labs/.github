@@ -7,4 +7,11 @@ Our current projects include:
 - **[fasterbench](https://github.com/FasterAI-Labs/fasterbench)**: A benchmarking toolkit designed to evaluate and compare neural network performance with ease, fostering transparency and reproducibility in AI research.
 - **[fastermodels](https://github.com/FasterAI-Labs/fastermodels)**: A utility repository to easily share and download pre-compressed neural network models for streamlined deployment.
 
-Join us in shaping the future of scalable, efficient, and accessible AI technologies !
+
+## Join Our Community 💬
+
+Be part of the conversation! Connect with other AI researchers, engineers, and enthusiasts to discuss model compression, optimization techniques, and open-source AI development.
+
+🚀 Join our [Discord]([url](https://discord.gg/bEnEs6am)) and shape the future of efficient AI with us!
+
+
